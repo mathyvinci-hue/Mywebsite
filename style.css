@@ -1,0 +1,8 @@
+.San_Valentin {
+    position: absolute;
+    width: 90%;
+    font-size: 2rem;
+    font-family:"Te amo";
+    height: var(--letter-love);
+    transform: trasition(-90%);
+}
